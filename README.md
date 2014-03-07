@@ -1,4 +1,4 @@
-my_first_gem
+My first gem
 ============
 
 はじめてのgem  
